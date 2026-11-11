@@ -1,0 +1,6 @@
+export const faqData = [
+  { id: 'tentang', question: 'Apa itu TunasLab?', answer: 'TunasLab adalah sistem budidaya microgreens cerdas yang menggabungkan perangkat tanam ringkas dengan teknologi digital. Melalui web, pengguna dapat memilih jenis bibit, melihat estimasi waktu panen, dan mengaktifkan atau menonaktifkan LED grow light.' },
+  { id: 'bibit', question: 'Jenis microgreens apa saja yang dapat dipilih?', answer: 'TunasLab menyediakan pilihan Pakcoy, Bayam Merah, dan Kacang Polong. Pilih jenis bibit melalui web untuk memulai siklus budidaya yang sesuai.' },
+  { id: 'countdown', question: 'Bagaimana Harvest Countdown bekerja?', answer: 'Sistem menghitung estimasi waktu panen menggunakan durasi pertumbuhan yang telah dikonfigurasi untuk jenis bibit pilihanmu. Countdown adalah perkiraan waktu, bukan pengukuran kondisi tanaman. Tetap perhatikan perkembangan tanaman sebelum memanen.' },
+  { id: 'manual', question: 'Apakah penyiraman dan pemanenan dilakukan secara otomatis?', answer: 'Tidak. Penyiraman dan pemanenan tetap dilakukan secara manual oleh pengguna. Telegram Bot membantu melalui pengingat penyiraman harian, sementara web menyediakan estimasi panen dan kontrol LED grow light.' },
+]
